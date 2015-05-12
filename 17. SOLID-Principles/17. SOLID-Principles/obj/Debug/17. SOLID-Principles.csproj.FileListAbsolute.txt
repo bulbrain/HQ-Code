@@ -1,0 +1,6 @@
+F:\SoftUni\2\Homework\2.2 High-Quality Code\17. SOLID-Principles\17. SOLID-Principles\bin\Debug\_17.SOLID_Principles.exe.config
+F:\SoftUni\2\Homework\2.2 High-Quality Code\17. SOLID-Principles\17. SOLID-Principles\bin\Debug\_17.SOLID_Principles.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\17. SOLID-Principles\17. SOLID-Principles\bin\Debug\_17.SOLID_Principles.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\17. SOLID-Principles\17. SOLID-Principles\obj\Debug\17. SOLID-Principles.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.2 High-Quality Code\17. SOLID-Principles\17. SOLID-Principles\obj\Debug\_17.SOLID_Principles.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\17. SOLID-Principles\17. SOLID-Principles\obj\Debug\_17.SOLID_Principles.pdb
