@@ -1,0 +1,13 @@
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\bin\Debug\FlyweightGame.exe.config
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\bin\Debug\FlyweightGame.exe
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\bin\Debug\FlyweightGame.pdb
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\FlyweightGame.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\MainWindow.baml
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\MainWindow.g.cs
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\App.g.cs
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\FlyweightGame_MarkupCompile.cache
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\FlyweightGame.g.resources
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\FlyweightGame.Properties.Resources.resources
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\FlyweightGame.csproj.GenerateResource.Cache
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\FlyweightGame.exe
+F:\SoftUni\2\Lession\2.2 High-Quality Code\19. Design-Patterns-II\18. Flyweight-Pattern-Exercise\FlyweightGame\obj\Debug\FlyweightGame.pdb
