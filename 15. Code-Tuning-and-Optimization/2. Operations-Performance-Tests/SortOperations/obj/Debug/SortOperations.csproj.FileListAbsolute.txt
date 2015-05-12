@@ -1,0 +1,6 @@
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\SortOperations\bin\Debug\SortOperations.exe.config
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\SortOperations\bin\Debug\SortOperations.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\SortOperations\bin\Debug\SortOperations.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\SortOperations\obj\Debug\SortOperations.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\SortOperations\obj\Debug\SortOperations.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\SortOperations\obj\Debug\SortOperations.csprojResolveAssemblyReference.cache

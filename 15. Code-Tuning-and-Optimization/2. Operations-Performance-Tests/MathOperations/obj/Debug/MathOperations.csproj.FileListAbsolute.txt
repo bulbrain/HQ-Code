@@ -1,0 +1,11 @@
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\2. Operations-Performance-Tests\bin\Debug\_2.Operations_Performance_Tests.exe.config
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\2. Operations-Performance-Tests\bin\Debug\_2.Operations_Performance_Tests.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\2. Operations-Performance-Tests\bin\Debug\_2.Operations_Performance_Tests.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\2. Operations-Performance-Tests\obj\Debug\_2.Operations_Performance_Tests.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\2. Operations-Performance-Tests\obj\Debug\_2.Operations_Performance_Tests.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\MathOperations\bin\Debug\_2.Operations_Performance_Tests.exe.config
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\MathOperations\bin\Debug\_2.Operations_Performance_Tests.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\MathOperations\bin\Debug\_2.Operations_Performance_Tests.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\MathOperations\obj\Debug\MathOperations.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\MathOperations\obj\Debug\_2.Operations_Performance_Tests.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\MathOperations\obj\Debug\_2.Operations_Performance_Tests.pdb

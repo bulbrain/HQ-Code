@@ -1,0 +1,6 @@
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\AdvancedMathOperations\bin\Debug\AdvancedMathOperations.exe.config
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\AdvancedMathOperations\bin\Debug\AdvancedMathOperations.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\AdvancedMathOperations\bin\Debug\AdvancedMathOperations.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\AdvancedMathOperations\obj\Debug\AdvancedMathOperations.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\AdvancedMathOperations\obj\Debug\AdvancedMathOperations.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\15. Code-Tuning-and-Optimization\2. Operations-Performance-Tests\AdvancedMathOperations\obj\Debug\AdvancedMathOperations.pdb
