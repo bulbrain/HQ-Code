@@ -1,0 +1,5 @@
+F:\SoftUni\2\Homework\2.2 High-Quality Code\13. Refactoring\Matrix\bin\Debug\GameFifteen.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\13. Refactoring\Matrix\bin\Debug\GameFifteen.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\13. Refactoring\Matrix\obj\x86\Debug\Matrix.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.2 High-Quality Code\13. Refactoring\Matrix\obj\x86\Debug\GameFifteen.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\13. Refactoring\Matrix\obj\x86\Debug\GameFifteen.pdb
