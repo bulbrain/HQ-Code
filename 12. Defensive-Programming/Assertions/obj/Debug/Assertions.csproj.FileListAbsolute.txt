@@ -1,0 +1,5 @@
+F:\SoftUni\2\Homework\2.2 High-Quality Code\12. Defensive-Programming\Assertions\bin\Debug\Assertions-Homework.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\12. Defensive-Programming\Assertions\bin\Debug\Assertions-Homework.pdb
+F:\SoftUni\2\Homework\2.2 High-Quality Code\12. Defensive-Programming\Assertions\obj\Debug\Assertions.csprojResolveAssemblyReference.cache
+F:\SoftUni\2\Homework\2.2 High-Quality Code\12. Defensive-Programming\Assertions\obj\Debug\Assertions-Homework.exe
+F:\SoftUni\2\Homework\2.2 High-Quality Code\12. Defensive-Programming\Assertions\obj\Debug\Assertions-Homework.pdb
